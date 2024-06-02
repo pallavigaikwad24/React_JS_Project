@@ -1,0 +1,50 @@
+[
+    {
+        "id" : 1,
+        "topic" : "Trending in India",
+        "title" : "BIG BOMB BLAST",
+        "post_count" : "35k"
+    },
+    {
+        "id" : 2,
+        "topic" : "Entertainment - Trainding",
+        "title" : "RAM CHARAN",
+        "post_count" : "20k"
+    },
+    {
+        "id" : 3,
+        "topic" : "Politics - Trending",
+        "title" : "MAHARASTRA",
+        "post_count" : "5k"
+    },
+    {
+        "id" : 4,
+        "topic" : "Sports - Trending",
+        "title" : "EDEN GARDENS",
+        "post_count" : "20k"
+    },
+    {
+        "id" : 5,
+        "topic" : "Trending in K-pop",
+        "title" : "CONGRATULATIONS NAMJOON",
+        "post_count" : "70k"
+    },
+    {
+        "id" : 6,
+        "topic" : "Entertainment - Trending",
+        "title" : "#AdahSharma",
+        "post_count" : "2k"
+    },
+    {
+        "id" : 7,
+        "topic" : "Trending in India",
+        "title" : "#Eurovision",
+        "post_count" : "268k"
+    },
+    {
+        "id" : 8,
+        "topic" : "Music · Trending",
+        "title" : "JEONGHAN",
+        "post_count" : "200k"
+    }
+]
